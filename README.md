@@ -1,4 +1,4 @@
-# Welcome to Piranha.Core
+# A Cure 4 IT home page Git Initialization
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0fa7c8bcd5234443b79b075436e92d7e)](https://www.codacy.com/gh/PiranhaCMS/piranha.core/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=PiranhaCMS/piranha.core&amp;utm_campaign=Badge_Grade)
 [![CodeFactor](https://www.codefactor.io/repository/github/piranhacms/piranha.core/badge)](https://www.codefactor.io/repository/github/piranhacms/piranha.core)
